@@ -4,3 +4,4 @@ Senior in undergraduate.
 
 - **Seoul National University of Science and Technology / Republic of Korea**
   - Major: Department of Electrical and Information Engineering
+  - duration : 2022 - 2025
